@@ -9,7 +9,7 @@ layout: default
 		{%- include section.html title=page.title photo=page.cover-photo photo-alt=page.cover-photo-alt auto-header=page.auto-header content=page.content -%}
 	{%- endif -%}
 	<!-- Posts List -->
-	{%- for _post-basic in _posts-baisc -%}
+	{%- for _post-basic in _posts-basic -%}
 		{%- capture _title -%}
 			<a href="{{- _post-basic.url | absolute_url -}}">{{- _post-basic.title -}}</a>
 		{%- endcapture -%}
