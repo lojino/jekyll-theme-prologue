@@ -6,7 +6,7 @@ icon: fa-book
 order: 3
 ---
 
-I love books! Here are some I'm reading now:
+I love books! Here are some I'm reading now: (Sample)
 
 1. Robert Burton: *The Anatomy of Melancholy*
 2. Robert Musil: *The Man Without Qualities*
